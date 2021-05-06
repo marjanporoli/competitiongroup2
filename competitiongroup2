@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>SAFI Institute of Advanced Study</title>
+</head>
+<body>
+    <header>
+    <div class="header_box">
+        
+        <img src="siastitlelogo5.png" width="20%">
+    </div>
+    
+    <br>
+    <style>
+        body {font-family: Arial, Helvetica, sans-serif;}
+        
+        .navbar {
+          width: 100%;
+          background-color: #555;
+          overflow: auto;
+        }
+        
+        .navbar a {
+          float: left;
+          padding: 15px;
+          color: white;
+          text-decoration: none;
+          font-size: 17px;
+        }
+        
+        .navbar a:hover {
+          background-color: #000;
+        }
+        
+        .active {
+          background-color: #1ead3d;
+        }
+        
+        @media screen and (max-width: 500px) {
+          .navbar a {
+            float: none;
+            display: block;
+          }
+        }
+        </style>
+        <body>
+
+        
+        <div class="navbar">
+          <a class="active" href="https://sias.edu.in/cs.php"><i class="home"></i> Home</a> 
+          <a href="timeline.html"><i class="department"></i> Department</a> 
+          <a href="contact.html"><i class="Contact"></i> Contact </a> 
+          <a href="login.html"><i class="Contact"></i> Login </a> 
+          <a href="gallery.html"><i class="gallery"></i> Gallery </a>
+        </div>
+        
+
+    
+    
+    <img src="cssss.jpg" width="100%" height="400%" alt="error">
+</header>
+
+
+<div class="outer_img">
+
+</div>
+
+<div class="paragraph">
+  <h2>Computer Science and Applications</h2>
+  <h3>Courses:B.Sc. Computer Science, BCA</h3>
+  <p>Department of Computer Science and Application was established with the objective of </br>imparting quality education in the field of Computer Science. The Department offers</br> two undergraduate programmes viz. BCA and B. Sc Computer Science which commenced</br> in the year 2010 and 2013 respectively.
+
+      To broaden the knowledge of the students</br> in the emerging technologies, the department frequently conducts seminars and invited</br> talks with the support of experienced resource persons from the industry. Project work</br> is a part of the curriculum.The department has to keep abreast of the new  technologies </br>and applications and keep the students updated. The department is well equipped. 
+  </p>
+ 
+</div></div>
+<div class="image">
+<img src="https://sias.edu.in/images1/arialbanner.jpg">
+</div>
+
+
+
+
+<div class="footer">
+
+<div class="play_botton">
+ <a href="https://play.google.com/store/apps/details?id=hari.app.siasapp"></i><img src="play_store.png"/></a> 
+</div>
+<div id="ph">
+  <h3>Ph: +91 483 2880000 (100 lines)</h3>
+</div>
+<div id="textcopy">
+  <h3><center>Copyrights © 2021</center> </h3>
+</div>
+
+<div class="img"><img src="Untitled-1.png" width="200px" height="200px">
+</div>
+
+<div class="footmenu">
+  <style>
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+  }  
+  li{
+    float: left;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 16px;
+ background-color: white;
+ border-radius: 2px;
+    text-decoration: underline;
+  }
+  li a:hover{
+    background-color:white;
+  }
+</style>
+
+<ul>
+  <li><a href="gallery.html">Gallery</a></li>
+  
+  <li><a href="contact.html">Contact</a></li>
+  
+  <li><a href="timeline.html">Department Activity</a></li>
+ <li><a href="a">Management</a></li>
+</ul>
+
+
+</div>
+
+</div>    
+</body>
+</html>
